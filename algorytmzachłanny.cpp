@@ -2,7 +2,7 @@
 //autor: Jakub N;
 //ALGORYTM ZACHŁANNY
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
 int main()
