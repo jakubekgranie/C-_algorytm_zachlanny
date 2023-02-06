@@ -10,7 +10,7 @@ int main()
     double numer;
     cin >> numer;
     numer = numer * 100;  //usuwanie przecinka;
-    int numer2 = std::round(numer); //konwersja z typu double na int;
+    int numer2 = round(numer); //konwersja z typu double na int;
     while (numer2 != 0)
     {
         for (int i = 0; i < 15; i++) //właściwy algorytm;
