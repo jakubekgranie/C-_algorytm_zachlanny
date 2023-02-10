@@ -86,7 +86,7 @@ int main()
 
                 {
 
-                    if(nominals[j] < 100 && nominals[j] >= 10) // 50gr - 10gr
+                    if (nominals[j] < 100 && nominals[j] >= 10) // 50gr - 10gr
 
                     {
 
